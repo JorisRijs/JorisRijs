@@ -6,6 +6,7 @@ I am a third-year university student, studying IT and majoring in <b>Network and
 
 - IoT(Internet of Things)(minor during Bachelor's)
 - CS50X (Harvard University)
+- Yara rules (This is for an internship which i am hopefully starting next spring)
 - A complete Computer Science education using online courses. (OSSU curriculum)(will be starting this after i finished CS50)
 
 # Programming Languages:
