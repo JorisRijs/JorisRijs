@@ -1,10 +1,10 @@
 # Hi there!
 
-I am a third-year university student, studying IT and majoring in <b>Network and security engineering</b>. My main intersts are <b>Computer Science</b>, <b>Security</b> and <b>Software Engineering</b>. Other interests which i my my toes in are: <b>3D modeling, IoT(Internet of Things), Mathematics, Algorithms</b> and <b>Artificial Intelligence</b>.
+I am a third-year university student, studying IT and majoring in <b>Network and security engineering</b>. My main intersts are <b>Computer Science</b>, <b>Security</b> and <b>Software Engineering</b>. Other interests which i dipped my toes in are: <b>3D modeling, IoT(Internet of Things), Mathematics, Algorithms</b> and <b>Artificial Intelligence</b>.
 
 # Current courses / self-study items:
 
-- IoT(Internet of Things)(minor during Bachelor's)
+- Practical Ethical Hacking (Udemy)
 - CS50X (Harvard University)
 - Yara rules (This is for an internship which i am hopefully starting next spring)
 - A complete Computer Science education using online courses. (OSSU curriculum)(will be starting this after i finished CS50)
