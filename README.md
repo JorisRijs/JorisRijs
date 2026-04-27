@@ -1,29 +1,28 @@
 # Hi there!
 
-I am a third-year university student, studying IT and majoring in <b>Network and security engineering</b>. My main intersts are <b>Computer Science</b>, <b>Security</b> and <b>Software Engineering</b>. Other interests which i dipped my toes in are: <b>3D modeling, IoT(Internet of Things), Mathematics, Algorithms</b> and <b>Artificial Intelligence</b>.
+I am a final year Masters student at [TU Delft](https://www.tudelft.nl), specializing in Cyber security (particularly in network security).
+Besides my studies, I am an OT security engineer at [Hunt & Hackett](https://www.huntandhackett.com/) where I work on understanding attacks on critical infrastructure and for which I design and implement use cases.
+Besides this, I research a lot of technical ideas in various fields (Machine Learning, Distributed Systems, Deception Tactics).
 
 # Current courses / self-study items:
 
-- Practical Ethical Hacking (Udemy)
-- CS50X (Harvard University)
-- Yara rules (This is for an internship which i am hopefully starting next spring)
-- A complete Computer Science education using online courses. (OSSU curriculum)(will be starting this after i finished CS50)
+- Learning to write Rust
+- Get a deeper understanding of GPT architecture and underlying components
 
 # Programming Languages:
 
 - Python: Experienced
 - SQL: Experienced
 - Java: Adept
-- HTML/CSS: Adept
-- C: Novice
-- PHP: Novice
+- Rust: Novice
+- Go: Novice
 
 # (Non-Programming) Languages:
 
 | Language*(English) | Language name in target language* | CEFR level | ILR scale | Primary focus? |
 |:--------------------:|:---------------------------------:|:-----------:|:-----------:|:----------------:|
 | Dutch | Nederlands | C2 | Native proficiency | N.A. |
-| English | English | C1 | Full professional working proficiency | N.A. |
+| English | English | C2 | Native proficiency | N.A. |
 
 # Where to find me:
 
